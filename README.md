@@ -1,4 +1,4 @@
-# Análise de Dados de Jogos
+# Análise exploratória de dados de videogames e Jogos
 
 Este é um projeto de análise de dados de jogos, que utiliza a biblioteca Streamlit para criar uma interface interativa para visualização e análise dos dados. A aplicação permite explorar informações sobre editoras, plataformas, jogos e vendas de videogames.
 
